@@ -1,0 +1,5 @@
+django
+django_elasticsearch_dsl
+django_crispy_forms
+django_allauth
+Pillow
