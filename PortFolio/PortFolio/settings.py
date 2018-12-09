@@ -56,7 +56,10 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
+    'bootstrap4',
 ]
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 ELASTICSEARCH_DSL = {
     'default': {
@@ -155,8 +158,6 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     STATIC_DIR,
 ]
-
-CRISPY_TEMPLATE_PACK = 'bootstrap3'
 
 SITE_ID = 1
 
