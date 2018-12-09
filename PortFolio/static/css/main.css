@@ -1,8 +1,11 @@
 /* Change class of bootstrap3 */
 
 .bg-dark {
-
     background-color: #0f1011 !important;
+}
+
+.attachment {
+    background-attachment: fixed;
 
 }
 
@@ -34,6 +37,32 @@
 .jumbotron {
 
     background-color: #606dff;
+    background-color: transparent;
+}
+
+/* Images background possibility classes */
+
+.hand-wold {
+
+    background-image:url(../img/hand-world.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.banner-web {
+
+    background-image:url(../img/banner-web.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.web-connections {
+
+    background-image:url(../img/web-connections.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 
 }
 
@@ -92,5 +121,4 @@
     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#099), to(#006A6B));
     background: -moz-linear-gradient(top, #099, #006A6B);
   }
-
 */
