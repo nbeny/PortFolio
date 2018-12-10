@@ -1,7 +1,11 @@
 /* Change class of bootstrap3 */
 
+.color-important {
+    background-color: #030a14;
+}
+
 .bg-dark {
-    background-color: #0f1011 !important;
+    background-color: #000 !important;
 }
 
 .attachment {
@@ -14,7 +18,7 @@
     color: #4a58ff;
     background-color: transparent;
     background-image: none;
-    border-color: #3f60ef;
+    border-color: #A7A37E;
 
 }
 
@@ -22,7 +26,7 @@
 
     color: #fff;
     background-color: #17155a;
-    border-color: #000560;
+    border-color: #A7A37E;
 
 }
 
@@ -30,26 +34,62 @@
 
     color: #fff;
     background-color: #090756;
-    border-color: #0d0f42;
+    border-color: #EFECCA;
 
 }
 
 .jumbotron {
-    background-color: #0f1011;
+    background-color: #375D81;
     background-image:url(../img/web-connections-convert.jpg);
     background-repeat: no-repeat;
     background-position: center;
     padding: 4rem 2rem;
+    background-size: cover;
 }
+
+.space-div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.margin-bot-div {
+    margin-bottom: 80px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+}
+
+.width-form {
+    width: 40%;
+    max-width: 800px;
+    margin: 0 30%;
+}
+
+/* Change base of CSS */
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #000;
+    color: #A7A37E;
     text-align: left;
 
+}
+
+.div-style-for-me {
+    background-color: #32478F;
+    border-radius: 10px;
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+}
+
+.padding-for-me {
+    padding: 10px 10px; /* 2 valeurs */
+    /*padding: 10px 10px 10px; 3 valeurs */
 }
 
 /* Images background possibility classes */
