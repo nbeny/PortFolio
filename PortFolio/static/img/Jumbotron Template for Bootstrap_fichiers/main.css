@@ -33,36 +33,48 @@
     border-color: #0d0f42;
 
 }
-
+/*
 .jumbotron {
+    background-color: #0f1011;
+    background-image:url(../img/web-connections-convert.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+*/
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    text-align: left;
 
-    background-color: #606dff;
 }
 
 /* Images background possibility classes */
 
 .hand-wold {
-
-  background-image:url(../img/hand-world.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-
+    background-image:url(../img/hand-world.png);
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 
 .banner-web {
 
-  background-image:url(../img/banner-web.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-
+    background-image:url(../img/banner-web.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
-.web-connections {
+/* media windows inferieur to 768px */
 
-  background-image:url(../img/web-connections.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-
+@media screen and (max-width: 768px) {
+.jumbotron {
+    background-color: #0f1011;
+    background-image:url(../img/web-connections-convert.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
 }
 
 /* barre de progression (COMPETENCES) */

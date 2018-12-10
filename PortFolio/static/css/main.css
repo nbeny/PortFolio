@@ -35,19 +35,29 @@
 }
 
 .jumbotron {
+    background-color: #0f1011;
+    background-image:url(../img/web-connections-convert.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 4rem 2rem;
+}
 
-    background-color: #606dff;
-    background-color: transparent;
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    text-align: left;
+
 }
 
 /* Images background possibility classes */
 
 .hand-wold {
-
     background-image:url(../img/hand-world.png);
     background-size: 100%;
     background-repeat: no-repeat;
-
 }
 
 .banner-web {
@@ -55,15 +65,19 @@
     background-image:url(../img/banner-web.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
-
 }
 
-.web-connections {
-
-    background-image:url(../img/web-connections.jpg);
-    background-size: 100%;
+/* media windows inferieur to 768px */
+@media screen and (max-width: 768px) {
+.jumbotron {
+    background-color: #0f1011;
+    background-image:url(../img/web-connections-convert.jpg);
     background-repeat: no-repeat;
-
+    background-position: center;
+    padding: 4rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
 }
 
 /* barre de progression (COMPETENCES) */
