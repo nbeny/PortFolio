@@ -43,8 +43,8 @@
     background-image:url(../img/web-connections-convert.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    padding: 4rem 2rem;
     background-size: cover;
+    padding: 4rem 2rem;
 }
 
 .space-div {
@@ -53,17 +53,22 @@
 }
 
 .margin-bot-div {
-    margin-bottom: 80px;
+    margin-bottom: 5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #000;
 }
 
+.div-form {
+    margin: 0 30%;
+}
+
 .width-form {
+/*
     width: 40%;
     max-width: 800px;
-    margin: 0 30%;
+    */
 }
 
 /* Change base of CSS */
@@ -80,7 +85,7 @@ body {
 
 .div-style-for-me {
     background-color: #32478F;
-    border-radius: 10px;
+    /*border-radius: 10px;*/
     padding-top: 2px;
     padding-left: 2px;
     padding-right: 2px;
