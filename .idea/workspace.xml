@@ -2,285 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e83f3324-9270-4179-b0fd-05a99af82c3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PortFolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/PortFolio/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/PortFolio/routing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/PortFolio/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/PortFolio/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/PortFolio/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/consumers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/routing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/chat/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/dump.rdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/profiles/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/search/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/autocomplete.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/changelists.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/responsive_rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/vendor/select2/LICENSE-SELECT2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/fonts/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/fonts/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/fonts/Roboto-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/fonts/Roboto-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/fonts/Roboto-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/calendar-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-addlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-alert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-changelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-clock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-deletelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-unknown-alt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-unknown.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-viewlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/icon-yes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/inline-delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/selector-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/sorting-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/tooltag-add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/img/tooltag-arrowright.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/SelectBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/SelectFilter2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/actions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/autocomplete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/change_form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/collapse.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/inlines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/inlines.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/jquery.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/popup_response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/prepopulate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/prepopulate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/prepopulate_init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/timeparse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/urlify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/select2.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/select2/select2.full.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/xregexp/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/a.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/jquery-3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap_fichiers/prompt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/banner-web.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/hand-world.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/web-connections-convert.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/web-connections-head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/img/web-connections.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/popper-1.14.6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/static/js/tooltip-1.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/account/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/account/logout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/account/password_reset.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/account/signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/chat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/container.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/jumbotron.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/room.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortFolio/templates/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script_duterter.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/.Python" beforeDir="false" afterPath="$PROJECT_DIR$/venv/.Python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/python3.7m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/__future__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/__future__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/_bootlocale.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/_bootlocale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/_collections_abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/_collections_abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/_dummy_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/_dummy_thread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/_weakrefset.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/_weakrefset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/base64.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/base64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/bisect.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/bisect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/codecs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/codecs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/collections" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/config-3.7m-darwin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/copyreg.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/copyreg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/encodings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/enum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/fnmatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/fnmatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/functools.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/functools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/genericpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/genericpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/hashlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/hashlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/heapq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/heapq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/hmac.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/hmac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/imp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/imp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/importlib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/io.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/io.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/keyword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/lib-dynload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/linecache.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/linecache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/locale.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/locale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/ntpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/ntpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/os.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/os.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/posixpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/posixpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/re.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/re.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/readline.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/readline.so" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/reprlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/reprlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/rlcompleter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/rlcompleter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/shutil.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/shutil.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/sre_compile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/sre_compile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/sre_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/sre_constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/sre_parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/sre_parse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/stat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/stat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/struct.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/struct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/tarfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/tarfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/tempfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/tempfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/tokenize.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/tokenize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/warnings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/warnings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/weakref.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/weakref.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -293,12 +16,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PortFolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="369">
@@ -360,6 +87,7 @@
         <option value="$PROJECT_DIR$/PortFolio/requirements.txt" />
         <option value="$PROJECT_DIR$/PortFolio/PortFolio/settings.py" />
         <option value="$PROJECT_DIR$/PortFolio/settings.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -441,11 +169,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7042000" />
+    <option name="totallyTimeSpent" value="7806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32800853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -580,13 +307,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PortFolio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
