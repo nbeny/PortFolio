@@ -9,6 +9,7 @@ https://docs.djangoproject.com/en/2.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.1/ref/settings/
 """
+import django_heroku
 
 import os
 
@@ -35,7 +36,7 @@ STATICFILES_DIRS = [
 SECRET_KEY = '5srbqc)lb&3g#3tff#^$4v^!37if^adruzw@tiot2njfts7y)n'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -215,3 +216,6 @@ ACCOUNT_LOGIN_ON_EMAIL_CONFIRMATION = True
 #    STATICFIES_DIRS = (
 #        os.path.join(os.path.dirname(BASE_DIR), 'static', 'static'),
 #    )
+
+# Activate Django-Heroku.
+django_heroku.settings(locals())
