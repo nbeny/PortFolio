@@ -8,22 +8,22 @@
         {% url 'search' as search %}
 
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item {% if request.path == home %}active{% endif %}">
+            <li class="nav-item">
                 <a class="nav-link" href="{% url 'index' %}#home"><i class="fa fa-home"> Home</i></a>
             </li>
-            <li class="nav-item {% if request.path == about %}active{% endif %}">
+            <li class="nav-item">
                 <a class="nav-link" href="{% url 'index' %}#about"><i class="fa fa-user"> À propos</i></a>
             </li>
-            <li class="nav-item {% if request.path == search %}active{% endif %}">
+            <li class="nav-item">
                 <a class="nav-link" href="{% url 'index' %}#portfolio"><i class="fa fa-refresh" id="turnImg"></i> Mon Travail</a>
             </li>
-            <li class="nav-item {% if request.path == contact %}active{% endif %}">
+            <li class="nav-item">
                 <a class="nav-link" href="{% url 'index' %}#contact"><i class="fa fa-envelope"> Contact</i></a>
             </li>
-            <li class="nav-item {% if request.path == search %}active{% endif %}">
+            <li class="nav-item">
                 <a class="nav-link" href="{% url 'search' %}"><i class="fa fa-search"> Search</i></a>
             </li>
-            <li class="nav-item {% if request.path == chat %}active{% endif %}">
+            <li class="nav-item">
                 <a class="nav-link" href="{% url 'chat' %}"><i class="fa fa-trash"> Chat</i></a>
             </li>
         </ul>

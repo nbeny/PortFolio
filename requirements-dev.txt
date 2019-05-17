@@ -7,5 +7,3 @@ django-bootstrap4
 channels
 channels_redis
 selenium
-gunicorn
-django-heroku
