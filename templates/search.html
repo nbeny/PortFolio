@@ -2,6 +2,12 @@
 {% load crispy_forms_tags %}
 
 {% block jumbotron %}
+
+{% include 'jumbotron.html' %}
+
+{% endblock %}
+
+{% block content %}
 <div class="div-form">
     <h1>Search solution</h1>
     <form class="width-form" method="get">
@@ -10,9 +16,6 @@
         <input id="q" name="q" type="text" placeholder="Your Search">
     </form>
 </div>
-{% endblock %}
-
-{% block content %}
 <div class="container">
     <!-- Example row of columns -->
     <div class="row space-div">

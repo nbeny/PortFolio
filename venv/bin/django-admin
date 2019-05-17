@@ -1,5 +1,4 @@
-#!/Users/alesio/PycharmProjects/PortFolio/venv/bin/python
-
+#!/Users/alesio/Documents/CleanSpace/42/Portfolio/venv/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys

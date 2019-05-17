@@ -16,6 +16,11 @@
     <link href="{% static 'css/bootstrap-grid.css' %}" rel="stylesheet">
     <link href="{% static 'css/bootstrap-reboot.css' %}" rel="stylesheet">
 
+    <!-- W3School core CSS -->
+    <link href="{% static 'css/w3.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     {% block addcss %}
     {% endblock %}
     <!-- Custom styles for this template -->
@@ -26,12 +31,8 @@
 
 <main role="main">
     {% include 'navbar.html' %}
-    <div class="jumbotron">
-        <div class="container">
-            {% block jumbotron %}
-            {% endblock %}
-        </div>
-    </div>
+    {% block jumbotron %}
+    {% endblock %}
 
 
     {% block content %}
@@ -40,7 +41,7 @@
 </main>
 
 <footer class="container">
-    <p>&copy; nbeny 2017-2018</p>
+    <p>&copy; nbeny 2019</p>
 </footer>
 
 <!-- Bootstrap core JavaScript
