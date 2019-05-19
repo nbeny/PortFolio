@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e83f3324-9270-4179-b0fd-05a99af82c3e" name="Default Changelist" comment="">
+    <list default="true" id="aa09ccbd-767d-43fb-a653-859052ab6a9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/container.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/container.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,42 +15,100 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PortFolio" />
-  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/modal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/container.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="146" selection-start-line="146" selection-end-line="146" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#3;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PortFolio/settings.py">
+        <entry file="file://$PROJECT_DIR$/search/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            <state relative-caret-position="210">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/navbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>drop</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,91 +116,50 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/profiles/urls.py" />
-        <option value="$PROJECT_DIR$/profiles/views.py" />
-        <option value="$PROJECT_DIR$/profiles/forms.py" />
-        <option value="$PROJECT_DIR$/profiles/admin.py" />
-        <option value="$PROJECT_DIR$/profiles/models.py" />
-        <option value="$PROJECT_DIR$/PortFolio/search/admin.py" />
-        <option value="$PROJECT_DIR$/PortFolio/search/search.py" />
-        <option value="$PROJECT_DIR$/PortFolio/search/urls.py" />
-        <option value="$PROJECT_DIR$/PortFolio/profiles/urls.py" />
-        <option value="$PROJECT_DIR$/PortFolio/profiles/views.py" />
-        <option value="$PROJECT_DIR$/PortFolio/search/views.py" />
-        <option value="$PROJECT_DIR$/PortFolio/PortFolio/urls.py" />
-        <option value="$PROJECT_DIR$/PortFolio/static/bootstrap/css/main.css" />
-        <option value="$PROJECT_DIR$/PortFolio/static/bootstrap/js/jquery-3.3.1.js" />
-        <option value="$PROJECT_DIR$/PortFolio/static/bootstrap/js/poppe-1.14.6.js" />
-        <option value="$PROJECT_DIR$/PortFolio/static/bootstrap/js/tooltip-1.3.1.js" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/base.html" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/navbar.html" />
-        <option value="$PROJECT_DIR$/script_duterter.sh" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/container.html" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/jumbotron.html" />
-        <option value="$PROJECT_DIR$/PortFolio/static/css/main.css" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/account/signup.html" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/account/login.html" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/account/logout.html" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/account/password_reset.html" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/contact.html" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/search.html" />
-        <option value="$PROJECT_DIR$/PortFolio/search/models.py" />
-        <option value="$PROJECT_DIR$/PortFolio/templates/search.html" />
-        <option value="$PROJECT_DIR$/PortFolio/requirements.txt" />
-        <option value="$PROJECT_DIR$/PortFolio/PortFolio/settings.py" />
-        <option value="$PROJECT_DIR$/PortFolio/settings.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/templates/navbar.html" />
+        <option value="$PROJECT_DIR$/templates/modal.html" />
+        <option value="$PROJECT_DIR$/templates/container.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="958" />
     <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PortFolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PortFolio" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PortFolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PortFolio" type="462c0819:PsiDirectoryNode" />
-              <item name="PortFolio" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/PortFolio/static/bootstrap" />
-      <recent name="$PROJECT_DIR$/PortFolio/static/bootstrap/js" />
-      <recent name="$PROJECT_DIR$/PortFolio/static/bootstrap/js/js" />
-      <recent name="$PROJECT_DIR$/PortFolio" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/PortFolio/static/img" />
-      <recent name="$PROJECT_DIR$/PortFolio/static/bootstrap/js" />
-      <recent name="$PROJECT_DIR$/PortFolio/static/bootstrap/css" />
-      <recent name="$PROJECT_DIR$/PortFolio/static/bootstrap" />
-      <recent name="$PROJECT_DIR$/PortFolio/static" />
-    </key>
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,31 +173,60 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Portfolio" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Portfolio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e83f3324-9270-4179-b0fd-05a99af82c3e" name="Default Changelist" comment="" />
-      <created>1543940242759</created>
+      <changelist id="aa09ccbd-767d-43fb-a653-859052ab6a9e" name="Default Changelist" comment="" />
+      <created>1558196023032</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543940242759</updated>
-      <workItem from="1546835114410" duration="4836000" />
-      <workItem from="1547487795600" duration="819000" />
-      <workItem from="1547493125873" duration="738000" />
+      <updated>1558196023032</updated>
+      <workItem from="1558196050429" duration="8023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7806000" />
+    <option name="totallyTimeSpent" value="8023000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32800853" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11448349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -184,140 +234,87 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3188119" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PortFolio/manage.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/js/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/PortFolio/urls.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/js/bootstrap.bundle.js" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/profiles/tests.py" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/template/base.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/profiles/forms.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/profiles/models.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/profiles/urls.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/profiles/views.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/js/jquery-3.3.1.js" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/js/popper-1.14.6.js" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/js/tooltip-1.3.1.js" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/css/bootstrap-grid.min.css.map" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/bootstrap/js/bootstrap.bundle.js.map" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/search/tests.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/search/urls.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/img/Jumbotron Template for Bootstrap.html" />
-    <entry file="file://$PROJECT_DIR$/script_duterter.sh" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/css/bootstrap.css" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/home.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/jumbotron.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/profile.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/navbar.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/static/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/account/signup.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/account/logout.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/account/password_reset.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/about.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/base.html" />
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/importlib/__init__.py">
+    <entry file="file://$PROJECT_DIR$/templates/modal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django_mongodb_engine/base.py" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/django/db/utils.py" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/djangotoolbox/fields.py" />
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py">
+    <entry file="file://$PROJECT_DIR$/templates/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6134">
-          <caret line="646" selection-start-line="646" selection-end-line="646" />
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PortFolio/search/models.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/search.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/search/search.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/manage.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/profiles/admin.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/profiles/apps.py" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/contact.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/account/login.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/container.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/PortFolio/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/search/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PortFolio/PortFolio/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state>
           <folding>
-            <element signature="e#309#329#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PortFolio/settings.py">
+    <entry file="file://$PROJECT_DIR$/search/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/search/search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state>
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/container.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#3;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
