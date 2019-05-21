@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="{% static 'images/favicon.png' %}">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Alesio</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet">
@@ -30,7 +30,8 @@
 <body class="color-important">
 
 <main role="main">
-    {% include 'navbar.html' %}
+    {% block navbar %}
+    {% endblock %}
     
     {% block jumbotron %}
     {% endblock %}

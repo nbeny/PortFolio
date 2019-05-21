@@ -38,7 +38,7 @@ SECRET_KEY = '5srbqc)lb&3g#3tff#^$4v^!37if^adruzw@tiot2njfts7y)n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -51,27 +51,18 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
+    'djongo',
 
-    'profiles',
-    'search',
-    'chat',
+    'index',
 
-    'django_elasticsearch_dsl',
     'crispy_forms',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
     'bootstrap4',
-    'channels',
 ]
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
-
-ELASTICSEARCH_DSL = {
-    'default': {
-        'hosts': 'localhost:9200'
-    },
-}
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -112,33 +103,27 @@ AUTHENTICATION_BACKENDS = (
 
 WSGI_APPLICATION = 'PortFolio.wsgi.application'
 
-
-# Channels
-ASGI_APPLICATION = 'PortFolio.routing.application'
-CHANNEL_LAYERS = {
-    'default': {
-        'BACKEND': 'channels_redis.core.RedisChannelLayer',
-        'CONFIG': {
-            "hosts": [('127.0.0.1', 6379)],
-        },
-    },
-}
-
-
-
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        'TEST': {
-            'NAME': os.path.join(BASE_DIR, 'db_test.sqlite3')
-        }
+        'ENGINE': 'djongo',
+        'ENFORCE_SCHEMA': True,
+        'NAME': 'nbeny',
+        'HOST': '127.0.0.1',
+        'PORT': 27017,
+        # 'USER': 'db-username',
+        # 'PASSWORD': 'password',
+        # 'AUTH_SOURCE': 'db-name',
+        # 'AUTH_MECHANISM': 'SCRAM-SHA-1',
+        # 'REPLICASET': 'replicaset',
+        # 'SSL': 'ssl',
+        # 'SSL_CERTFILE': 'ssl_certfile',
+        # 'SSL_CA_CERTS': 'ssl_ca_certs',
+        # 'READ_PREFERENCE': 'read_preference'
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
