@@ -1,3 +1,9 @@
+#!/bin/bash
+
+# install sqlparse
+sqlparse==0.2.4
+
+# install requirements
 django
 django_elasticsearch_dsl
 django_crispy_forms
