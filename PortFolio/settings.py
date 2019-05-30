@@ -54,6 +54,7 @@ INSTALLED_APPS = [
     'djongo',
 
     'index',
+    'films',
 
     'crispy_forms',
     'allauth',

@@ -1,0 +1,10 @@
+<h1>Films</h1>
+<ul>
+{% for film in object_list %}
+    <li>{{ film.Title }}</li>
+    <li>{{ film.WeightTorrent }}</li>
+    <li>{{ film.Categorie }}</li>
+{% empty %}
+    <li>No films yet.</li>
+{% endfor %}
+</ul>

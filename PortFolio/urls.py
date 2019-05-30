@@ -20,5 +20,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     path('', include('index.urls')),
+    path('', include('films.urls'));
     path('accounts/', include('allauth.urls')),
 ]
